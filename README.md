@@ -4,6 +4,10 @@ I have a transformer and an estiamtor. The first one works just fine, the second
 This behaviour is wrong / it should have access to the parameter value.
 
 Version of Spark is 2.0.2.
+
+**To reproduce the problem**
+  - execute `sbt run`
+
 The result of the transformer ==> it works just fine.
 
 ```
